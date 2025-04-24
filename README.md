@@ -57,6 +57,9 @@ For some ease of use when trying to use the code I added various print lines of 
 
 ### File details
 -project.py contains the code for the project and when run simulates a simple game of blackjack in the terminal window.
+
 -README.md is this file and contains an explanation of the project and other key information.
+
 -requirements.txt contain a list of all pip-installable libraries that the project requires to run.
+
 -test_project.py contains the test functions to test several of the functions in the main project code when run.
