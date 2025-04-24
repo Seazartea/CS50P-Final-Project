@@ -36,7 +36,7 @@ The code will display the rules of the game, including what are valid inputs for
 
 
 
-##Design Choices:
+## Design Choices:
 I started with the initial idea of not showing what cards you had but only their values. I changed this to showing the cards you have, along with the symbol for the suit of the card, and the total numerical value of the cards in your hand. Showing the total numerical value helps the user not have to work out their hand value each time so helps with ease of using the code. While showing the card and symbol was more a design choice instead of it being plain text you see.
 
 
