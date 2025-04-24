@@ -1,4 +1,8 @@
+This is my final project for CS50's Introduction to Programming with Python online course. This includes all files in the format they were submitted apart from this introductory line.
+
+
 # Simple terminal Blackjack
+
 
 ## Video demo link: https://youtu.be/tnRaN_-LhWA
 
