@@ -1,8 +1,8 @@
-#Simple terminal Blackjack
+# Simple terminal Blackjack
 
-##Video demo link: https://youtu.be/tnRaN_-LhWA
+## Video demo link: https://youtu.be/tnRaN_-LhWA
 
-##Project Description:
+## Project Description:
 This code runs a game of blackjack which you play in the terminal window. The blackjack game follows general blackjack rules which will be explained further down.
 The main function of the code runs the base game in a nested while loop, such that it doesn't end after 1 round of playing and continues.
 It uses if and elif statements that trigger depending on inputs from the player, and later on hand values to determine who wins each round and making outputting the correct print statements and changes to the win, losses and draw counts.
@@ -50,7 +50,7 @@ I added simple number inputs for each option you can choose to do, like draw a c
 For some ease of use when trying to use the code I added various print lines of code that help make the output more easily readable. These include: print() lines to form breaks in output, lines of "------" to make it easier to determine different hands of the game, varied "_-_-_-_-_" on the invalid input print to make it stand out more from the rest of the text and breaking up the rules print output with print() to make each section stand out more easier instead of being on block paragraph.
 
 
-###File details
+### File details
 *project.py contains the code for the project and when run simulates a simple game of blackjack in the terminal window.
 *README.md is this file and contains an explanation of the project and other key information.
 *requirements.txt contain a list of all pip-installable libraries that the project requires to run.
